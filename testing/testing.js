@@ -1,3 +1,3 @@
-let name = "Mohammed Faizan faizan-pnow is a software engineer";
+let name = "Mohammed Faizan";
 let alterdName = name.toLowerCase();
 console.log(alterdName);
